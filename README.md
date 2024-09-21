@@ -1,3 +1,5 @@
+> **Hello Mario Assets has been discontinued and will no longer be updated. Make sure to check out its successor [Hello Mario Framework](https://github.com/HelloFangaming/HelloMarioFramework) for Unity!**
+
 > **Due to this project's large file size when uncompressed (1GB), you need to download the Unity package file from the [releases page](https://github.com/HelloFangaming/HelloMarioAssets/releases) instead of pulling from the repository.**
 
 ![Hello Mario Assets](HelloMarioAssets.png)
